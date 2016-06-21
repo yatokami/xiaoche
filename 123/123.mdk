@@ -17,10 +17,10 @@ The structure of germanium on silicon avalanche photodiode , the performance  an
 
 # Introduction     { #sec-intro }
 
-Silicon photonics is a promising technology in modern high speed optical communication, and plenty of silicon-based micro and nanophotonic devices have been developed in last few decades, so there are many researchers trying to find lots of approaches to improve the behavior of silicon.Recently a research team from SiFotonics Technologies Co,Ltd got progress on high speed germanium on silicon avalanche photodiode(Ge\Si APD) with a 1310nm sensitivity of -22.5 dBm at 25.78Gb/s[@APD01].
+Silicon photonics is a promising technology in modern high speed optical communication, and plenty of silicon-based micro and nanophotonic devices have been developed in last few decades, so there are many researchers trying to find lots of approaches to improve the behavior of silicon. APD detector has high sensitivity,high degree of responsibility and dynamic range, which made it become the key components of infrared system in 0.92 to 1.65 μm wavelength. Although Ⅲ-Ⅴ APDs have high speed and high responsibility, it couldn't be widely used refer to it's cost and low gain bandwidth. Comparing to Ⅲ-Ⅴ APDs, silicon based APD like Ge\Si APD are more promising owing to low-cost, high reliability, and very mature fabrication technology. With silicon's low excess noise and high gain bandwidth, Ge\Si APD theoretically have the ability to demonstrate better performance at high speed operation. Recently a research team from SiFotonics Technologies Co,Ltd got progress on high speed germanium on silicon avalanche photodiode(Ge\Si APD) with a 1310nm sensitivity of -22.5 dBm at 25.78Gb/s[@APD01].
 
 #Explain about Ge/Si APD's high performance
-
+Using germanium with narrow band gap width as light absorption layer could improve the sensitivity in long wavelength; Using Si with ideal hole / electron ionization  (k < 0.1) as double layer could improve the avalanche gain of the device and well combines the advantages of germanium and silicon.
 
 [BIB]
 
