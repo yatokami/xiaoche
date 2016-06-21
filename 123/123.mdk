@@ -20,14 +20,15 @@ Silicon photonics is a promising technology in modern high speed optical communi
 
 #Reasons for Ge/Si APD's high performance
 #SACM structure of Ge\Si APD
-The working principle of Ge / Si SACM-APD is that the narrower band gap material Ge serve as light absorption region providing long wavelength sensitivity. And the wide band gap materials Si work as a multiplication region to reduce the tunneling current. Light absorption and charge multiplication occurred respectively in Ge and Si structure.
+The working principle of Ge/Si SACM-APD is that the narrower band gap material Ge serve as light absorption region providing long wavelength sensitivity. And the wide band gap materials Si work as a multiplication region to reduce the tunneling current. Light absorption and charge multiplication occurred respectively in Ge and Si structure.In this structure, the absorption zone and the multiplication region are separated independently, which can effectively reduce the dark current of the avalanche photodiode, combining with the advantages of the two materials[@SACM01].
 ~ Center
 ![Fig1]
 
 Fig.1 Cross-section of Ge/Si SACM-APD structure
 ~
-[Fig1]: images/logo.png "Fig1" { width:auto; max-width:90% }
+[Fig1]: images/logo.png "Fig1" { width:50%; max-width:90% }
 
+  
 
 [BIB]
 
